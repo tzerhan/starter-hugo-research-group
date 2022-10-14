@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Tan Research Group @ UCSD Physics
 subtitle: Order, symmetry and dynamics in living matter
+active: true
 design:
   columns: "1"
   css_style: null
