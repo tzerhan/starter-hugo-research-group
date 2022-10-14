@@ -7,7 +7,7 @@ banner:
 publication_types:
   - "2"
 authors:
-  - Tzer Han Tan
+  - admin
   - Alexander Mietke
   - Junang Li
   - Yuchao Chen
@@ -16,5 +16,7 @@ authors:
   - Shreyas Gokhale
   - Jörn Dunkel
   - Nikta Fakhri
+author_notes: []
+publication: Nature
 date: 2022-10-14T17:13:26.037Z
 ---
