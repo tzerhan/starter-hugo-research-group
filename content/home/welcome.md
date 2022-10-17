@@ -13,7 +13,7 @@ design:
   background:
     color: "#4c75e2"
     text_color_light: true
-    image: contact.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 
