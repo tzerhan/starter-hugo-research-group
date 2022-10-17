@@ -14,7 +14,7 @@ design:
     color: "#4c75e2"
     text_color_light: true
     image: ""
-hero_media: welcome.jpg
+hero_media: cortex.gif
 ---
 
 <br>
