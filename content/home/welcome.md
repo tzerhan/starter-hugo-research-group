@@ -10,6 +10,10 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    color: "#4c75e2"
+    text_color_light: true
+    image: contact.jpg
 hero_media: welcome.jpg
 ---
 
