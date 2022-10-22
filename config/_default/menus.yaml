@@ -14,7 +14,7 @@ main:
     url: people
     weight: 30
   - name: News
-    url: event
+    url: tour
     weight: 40
   - name: Publications
     url: publication

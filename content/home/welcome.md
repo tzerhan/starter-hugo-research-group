@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Order, symmetry & dynamics in living matter
 subtitle: Order, symmetry and dynamics in living matter
-active: true
+active: false
 design:
   columns: "2"
   css_style: null
@@ -13,8 +13,8 @@ design:
   background:
     color: "#4c75e2"
     text_color_light: true
-    image: "cortex.gif"
-hero_media: 
+    media: "cortex.gif"
+hero_media: cortex.gif
 ---
 
 <br>
