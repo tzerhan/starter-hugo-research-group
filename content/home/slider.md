@@ -15,31 +15,33 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: Odd dynamics in Living Chiral Crystal
+      content: What emergent dynamics behavior do we get when a collection of chirally rotating particles self-assemble into a crystal?
       align: center
       background:
         position: center
-        color: '#666'
-        brightness: 0.7
-        media: cortex.gif
-        fit: cover
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: spirals.avi
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
+        color: '#000'
         brightness: 0.5
-        media: welcome.jpg
+        media: miniatasmall.gif
+        fit: cover
+    - title: Emergent tissue mechanics 
+      content: How does a group of cells coordinate through biochemical and mechanical means to generate collective behavior? 
+      align: center
+      background:
+        position: center
+        color: '#000'
+        brightness: 0.8
+        media: equator_nofield_v5.gif
+        fit: contain
+    - title: Turbulent protein patterns
+      content: 'Just opened last month!'
+      align: center
+      background:
+        position: center
+        color: '#000'
+        brightness: 0.8
+        media: spirals.gif
+        fit: contain
       link:
         icon: graduation-cap
         icon_pack: fas
