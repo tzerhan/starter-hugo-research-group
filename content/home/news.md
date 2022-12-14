@@ -3,9 +3,10 @@
 widget: pages
 headless: true
 weight: 20
+active: false
 
 title: Latest News
-subtitle:
+subtitle: abcdef
 
 content:
   count: 5
