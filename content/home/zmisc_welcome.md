@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: Order, symmetry & dynamics in living matter
 subtitle: Order, symmetry and dynamics in living matter
-active: true
+active: false
 design:
   columns: "1"
   css_style: null

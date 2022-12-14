@@ -25,7 +25,7 @@ content:
         media: miniatasmall.gif
         fit: cover
     - title: Emergent tissue mechanics 
-      content: How does a group of cells coordinate through biochemical and mechanical means to generate collective behavior? 
+      content: How does a group of cells coordinate through biochemical and mechanical means to generate collective behavior and global shape changes? 
       align: center
       background:
         position: center
