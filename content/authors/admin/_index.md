@@ -1,22 +1,21 @@
 ---
 title: Tzer Han Tan
 role: ELBE Fellow @ MPI-PKS | MPI-CBG | CSBD
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include chiral active matter, topological defects, shape generation and biological self-organization.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Active matter
+  - Morphogenesis
+  - Nonequilibrium Physics
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:ttan@mpi-cbg.de
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tzerhan29
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=rpkXWmUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -25,15 +24,12 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Physics
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
+    - course: BSc in Applied Physics
+      institution: Cornell University
+      year: 2014
 email: ""
 superuser: true
 user_groups:
@@ -41,6 +37,4 @@ user_groups:
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an ELBE postdoc at MPI-CBG (Dresden, Germany) working with Anne Grapin-Botton and Stephan Grill. During my PhD, I worked with Nikta Fakhri (MIT, USA) to study symmetry, topology and geometry of biological active matter.  After my PhD, I spent a few months at the Quantitative Biology Initiative (Harvard University, USA) as an independent fellow to study how cellular aggregates form tissues and how sea star embryos can self-assemble into active chiral crystal. My current research effort is focused on understanding formation of complex 3D tissue architecture using pancreas organoids as a model. 
