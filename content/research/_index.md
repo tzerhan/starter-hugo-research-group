@@ -1,11 +1,20 @@
 ---
-title: Latest News
-
+#title: Research
+align: center
 # Listing view
 view: compact
+column: '2'
+
+date: false
+show_date: false
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: ''
+  image: 'featured.jpg'
+
 ---
+
+Our lab is interested in deciphering how order, symmetries and dynamics emerge in living matter. We are curiosity-driven. We make use of novel model systems and experimental techniques to explore organization principles in living systems at different scales. The lab currently focuses on two main directions: (i) we leverage on self-assembly of sea star embryo colonies to understand emergent chiral phenomena; and (ii) we build computational tools to understand mechanochemical principles of shape generation in multicellular systems. 
+
+

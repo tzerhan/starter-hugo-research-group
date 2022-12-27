@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: University California San Diego
     url: ""
 education:
   courses:
